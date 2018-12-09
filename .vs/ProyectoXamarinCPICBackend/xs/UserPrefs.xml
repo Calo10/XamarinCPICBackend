@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{67B6B618-F2FE-42DA-8396-046021441DD0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProyectoXamarinCPICBackend/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="ProyectoXamarinCPICBackend/Controllers/ValuesController.cs" Line="54" Column="1" />
+      <File FileName="ProyectoXamarinCPICBackend/Models/CustomerModel.cs" Line="20" Column="10" />
+      <File FileName="ProyectoXamarinCPICBackend/appsettings.json" Line="1" Column="1" />
+      <File FileName="ProyectoXamarinCPICBackend/appsettings.Development.json" Line="10" Column="1" />
+      <File FileName="ProyectoXamarinCPICBackend/Startup.cs" Line="48" Column="1" />
+      <File FileName="ProyectoXamarinCPICBackend/Program.cs" Line="28" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ProyectoXamarinCPICBackend PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
